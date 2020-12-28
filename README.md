@@ -4,3 +4,4 @@ This project is making accessible recent code written in a language C++ to a pro
 This has a particular interest for deep Learning model deployment thank to their ability to make 
 recent C++ libraries available for C programs.
 
+# Purpose
